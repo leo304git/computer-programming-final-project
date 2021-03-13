@@ -1,0 +1,1502 @@
+# depslib dependency file v1.0
+1545033796 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\humanoid.cpp
+
+1545033796 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\source\humanoid.cpp
+
+1545102285 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\src\humanoid.cpp
+	"Humanoid.h"
+
+1545118576 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+	"Bullet.h"
+
+1545102314 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+
+1545118639 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\include\player.h
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Bullet.h"
+
+1545102324 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+
+1545102646 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\include\zombie.h
+	<Humanoid.h>
+
+1545118471 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject\include\bullet.h
+	"Bullet.h"
+	"Player.h"
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<iostream>
+
+1545814888 source:d:\計程\finalproject_test\src\humanoid.cpp
+	"Humanoid.h"
+
+1545814689 d:\計程\finalproject_test\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1545666254 d:\計程\finalproject_test\include\bullet.h
+	"Bullet.h"
+	"Player.h"
+	<SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	<iostream>
+
+1545894879 d:\計程\finalproject_test\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1545833216 source:d:\計程\finalproject_test\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+
+1545815061 d:\計程\finalproject_test\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1545928206 source:d:\計程\finalproject_test\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1545920344 d:\計程\finalproject_test\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+
+1545831068 d:\計程\finalproject_test\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1545895472 d:\計程\finalproject_test\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1545928386 source:d:\計程\finalproject_test\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1545922324 source:d:\計程\finalproject_test\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1545831012 d:\計程\finalproject_test\src\main.cpp
+	"LTexture.h"
+	"Humanoid.h"
+	"Player.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"Global.h"
+
+1545928314 source:d:\計程\finalproject_test\src\main.cpp
+	"LTexture.h"
+	"Humanoid.h"
+	"Player.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"Global.h"
+
+1545928206 source:d:\計程\finalproject_test _bullet\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1545920344 d:\計程\finalproject_test _bullet\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+
+1545831068 d:\計程\finalproject_test _bullet\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546080358 d:\計程\finalproject_test _bullet\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546080358 d:\計程\finalproject_test _bullet\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1545895472 d:\計程\finalproject_test _bullet\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1545814888 source:d:\計程\finalproject_test _bullet\src\humanoid.cpp
+	"Humanoid.h"
+
+1545922324 source:d:\計程\finalproject_test _bullet\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546077060 source:d:\計程\finalproject_test _bullet\src\main.cpp
+	"LTexture.h"
+	"Humanoid.h"
+	"Player.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"Global.h"
+	"WeaponManager.h"
+
+1545815061 d:\計程\finalproject_test _bullet\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546086864 source:d:\計程\finalproject_test _bullet\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1545833216 source:d:\計程\finalproject_test _bullet\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+
+1546090801 source:d:\計程\finalproject_test _bullet\src\bullet.cpp
+	"Bullet.h"
+
+1546079611 d:\計程\finalproject_test _bullet\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+
+1546081633 d:\計程\finalproject_test _bullet\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	<ctime>
+
+1546090904 source:d:\計程\finalproject_test _bullet\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546090801 source:d:\計程\finalproject_test _barrel\src\bullet.cpp
+	"Bullet.h"
+
+1546079611 d:\計程\finalproject_test _barrel\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+
+1545831068 d:\計程\finalproject_test _barrel\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546135430 d:\計程\finalproject_test _barrel\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546080358 d:\計程\finalproject_test _barrel\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1545895472 d:\計程\finalproject_test _barrel\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1545814888 source:d:\計程\finalproject_test _barrel\src\humanoid.cpp
+	"Humanoid.h"
+
+1545922324 source:d:\計程\finalproject_test _barrel\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546086864 source:d:\計程\finalproject_test _barrel\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546134165 d:\計程\finalproject_test _barrel\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+
+1545833216 source:d:\計程\finalproject_test _barrel\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+
+1545815061 d:\計程\finalproject_test _barrel\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546135677 source:d:\計程\finalproject_test _barrel\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546135699 source:d:\計程\finalproject_test _barrel\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546134102 d:\計程\finalproject_test _barrel\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Barrel_test.h"
+	<ctime>
+
+1546134187 source:d:\計程\finalproject_test _barrel\src\main.cpp
+	"LTexture.h"
+	"Humanoid.h"
+	"Player.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"Global.h"
+	"WeaponManager.h"
+
+1546137327 source:d:\計程\finalproject_barrel(players待分割)\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546134165 d:\計程\finalproject_barrel(players待分割)\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+
+1545831068 d:\計程\finalproject_barrel(players待分割)\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546135430 d:\計程\finalproject_barrel(players待分割)\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546080358 d:\計程\finalproject_barrel(players待分割)\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1545895472 d:\計程\finalproject_barrel(players待分割)\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546090801 source:d:\計程\finalproject_barrel(players待分割)\src\bullet.cpp
+	"Bullet.h"
+
+1546079611 d:\計程\finalproject_barrel(players待分割)\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+
+1545814888 source:d:\計程\finalproject_barrel(players待分割)\src\humanoid.cpp
+	"Humanoid.h"
+
+1545922324 source:d:\計程\finalproject_barrel(players待分割)\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546154468 source:d:\計程\finalproject_barrel(players待分割)\src\main.cpp
+	"LTexture.h"
+	"Humanoid.h"
+	"Player.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"Global.h"
+	"WeaponManager.h"
+
+1545815061 d:\計程\finalproject_barrel(players待分割)\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546137093 d:\計程\finalproject_barrel(players待分割)\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Barrel_test.h"
+	<ctime>
+
+1546086864 source:d:\計程\finalproject_barrel(players待分割)\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1545833216 source:d:\計程\finalproject_barrel(players待分割)\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+
+1546154678 source:d:\計程\finalproject_barrel(players待分割)\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546262079 source:d:\計程\finalproject_barrel(explosion)\src\bullet.cpp
+	"Bullet.h"
+
+1546251544 d:\計程\finalproject_barrel(explosion)\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+
+1545831068 d:\計程\finalproject_barrel(explosion)\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546261322 d:\計程\finalproject_barrel(explosion)\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546251544 d:\計程\finalproject_barrel(explosion)\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546241786 d:\計程\finalproject_barrel(explosion)\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546251544 source:d:\計程\finalproject_barrel(explosion)\src\humanoid.cpp
+	"Humanoid.h"
+
+1545922324 source:d:\計程\finalproject_barrel(explosion)\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546242157 source:d:\計程\finalproject_barrel(explosion)\src\main.cpp
+	"LTexture.h"
+	"Humanoid.h"
+	"Player.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"Global.h"
+	"WeaponManager.h"
+
+1546251544 d:\計程\finalproject_barrel(explosion)\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546241915 d:\計程\finalproject_barrel(explosion)\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+
+1546137093 d:\計程\finalproject_barrel(explosion)\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Barrel_test.h"
+	<ctime>
+
+1546262079 source:d:\計程\finalproject_barrel(explosion)\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546251567 source:d:\計程\finalproject_barrel(explosion)\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+
+1546249684 source:d:\計程\finalproject_barrel(explosion)\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546263141 source:d:\計程\finalproject_barrel(explosion)\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546314251 source:d:\計程\finalproject_combine_nozom\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546313567 d:\計程\finalproject_combine_nozom\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+
+1545831068 d:\計程\finalproject_combine_nozom\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546261322 d:\計程\finalproject_combine_nozom\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546251544 d:\計程\finalproject_combine_nozom\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546269919 d:\計程\finalproject_combine_nozom\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546262079 source:d:\計程\finalproject_combine_nozom\src\bullet.cpp
+	"Bullet.h"
+
+1546251544 d:\計程\finalproject_combine_nozom\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+
+1546251544 source:d:\計程\finalproject_combine_nozom\src\humanoid.cpp
+	"Humanoid.h"
+
+1545922324 source:d:\計程\finalproject_combine_nozom\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546270810 source:d:\計程\finalproject_combine_nozom\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546251567 source:d:\計程\finalproject_combine_nozom\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+
+1546251544 d:\計程\finalproject_combine_nozom\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546312798 source:d:\計程\finalproject_combine_nozom\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546274199 d:\計程\finalproject_combine_nozom\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+
+1546266864 source:d:\計程\finalproject_combine_nozom\src\lbutton.cpp
+	"LButton.h"
+
+1546267213 d:\計程\finalproject_combine_nozom\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1546268224 source:d:\計程\finalproject_combine_nozom\src\main_finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+
+1546314385 source:d:\計程\finalproject_combine_zom\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546313567 d:\計程\finalproject_combine_zom\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+
+1545831068 d:\計程\finalproject_combine_zom\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546261322 d:\計程\finalproject_combine_zom\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546251544 d:\計程\finalproject_combine_zom\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546269919 d:\計程\finalproject_combine_zom\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546262079 source:d:\計程\finalproject_combine_zom\src\bullet.cpp
+	"Bullet.h"
+
+1546251544 d:\計程\finalproject_combine_zom\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+
+1546251544 source:d:\計程\finalproject_combine_zom\src\humanoid.cpp
+	"Humanoid.h"
+
+1546266864 source:d:\計程\finalproject_combine_zom\src\lbutton.cpp
+	"LButton.h"
+
+1546267213 d:\計程\finalproject_combine_zom\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1545922324 source:d:\計程\finalproject_combine_zom\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546270810 source:d:\計程\finalproject_combine_zom\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546315578 source:d:\計程\finalproject_combine_zom\src\main_finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+
+1546315672 d:\計程\finalproject_combine_zom\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+
+1546315145 d:\計程\finalproject_combine_zom\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546315578 source:d:\計程\finalproject_combine_zom\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546315684 source:d:\計程\finalproject_combine_zom\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1546428296 source:d:\計程\finalproject_combine_sound\src\bullet.cpp
+	"Bullet.h"
+
+1546317598 d:\計程\finalproject_combine_sound\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1545831068 d:\計程\finalproject_combine_sound\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546427818 d:\計程\finalproject_combine_sound\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546339199 d:\計程\finalproject_combine_sound\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546269919 d:\計程\finalproject_combine_sound\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546339199 source:d:\計程\finalproject_combine_sound\src\humanoid.cpp
+	"Humanoid.h"
+
+1546266864 source:d:\計程\finalproject_combine_sound\src\lbutton.cpp
+	"LButton.h"
+
+1546267213 d:\計程\finalproject_combine_sound\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1545922324 source:d:\計程\finalproject_combine_sound\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546427818 source:d:\計程\finalproject_combine_sound\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546426667 d:\計程\finalproject_combine_sound\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1546508620 source:d:\計程\finalproject_combine_sound\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546503364 d:\計程\finalproject_combine_sound\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Player1.h"
+	"Player2.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+
+1546425777 d:\計程\finalproject_combine_sound\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546425609 source:d:\計程\finalproject_combine_sound\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1546507818 source:d:\計程\finalproject_combine_sound\src\main_finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+
+1546426667 source:d:\計程\finalproject_combine_sound\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546427010 d:\計程\finalproject_combine_sound\include\player1.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546427018 d:\計程\finalproject_combine_sound\include\player2.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546507110 source:d:\計程\finalproject_combine_sound\src\player1.cpp
+	"Player1.h"
+
+1546507110 source:d:\計程\finalproject_combine_sound\src\player2.cpp
+	"Player2.h"
+
+1546339199 source:d:\計程\finalproject_vol1.0\src\humanoid.cpp
+	"Humanoid.h"
+
+1546339199 d:\計程\finalproject_vol1.0\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546266864 source:d:\計程\finalproject_vol1.0\src\lbutton.cpp
+	"LButton.h"
+
+1546267213 d:\計程\finalproject_vol1.0\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1546269919 d:\計程\finalproject_vol1.0\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1545922324 source:d:\計程\finalproject_vol1.0\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1545831068 d:\計程\finalproject_vol1.0\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546519981 source:d:\計程\finalproject_vol1.0\src\main_finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+
+1546519264 d:\計程\finalproject_vol1.0\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Player1.h"
+	"Player2.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+
+1546509546 d:\計程\finalproject_vol1.0\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1546427818 d:\計程\finalproject_vol1.0\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546427010 d:\計程\finalproject_vol1.0\include\player1.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546427018 d:\計程\finalproject_vol1.0\include\player2.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546570126 d:\計程\finalproject_vol1.0\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546509427 d:\計程\finalproject_vol1.0\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1546515059 source:d:\計程\finalproject_vol1.0\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546571674 source:d:\計程\finalproject_vol1.0\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1546511569 source:d:\計程\finalproject_vol1.0\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546511569 source:d:\計程\finalproject_vol1.0\src\bullet.cpp
+	"Bullet.h"
+
+1546515059 source:d:\計程\finalproject_vol1.0\src\player1.cpp
+	"Player1.h"
+
+1546515059 source:d:\計程\finalproject_vol1.0\src\player2.cpp
+	"Player2.h"
+
+1546521881 source:d:\計程\finalproject_vol1.0\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546653882 source:d:\計程\finalproject_vol1.1\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546656349 d:\計程\finalproject_vol1.1\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_mixer.h>
+
+1546583656 d:\計程\finalproject_vol1.1\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546603238 d:\計程\finalproject_vol1.1\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546339199 d:\計程\finalproject_vol1.1\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546269919 d:\計程\finalproject_vol1.1\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546654316 source:d:\計程\finalproject_vol1.1\src\bullet.cpp
+	"Bullet.h"
+
+1546509546 d:\計程\finalproject_vol1.1\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1546339199 source:d:\計程\finalproject_vol1.1\src\humanoid.cpp
+	"Humanoid.h"
+
+1546266864 source:d:\計程\finalproject_vol1.1\src\lbutton.cpp
+	"LButton.h"
+
+1546267213 d:\計程\finalproject_vol1.1\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1546583656 source:d:\計程\finalproject_vol1.1\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546519981 source:d:\計程\finalproject_vol1.1\src\main_finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+
+1546604087 d:\計程\finalproject_vol1.1\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Player1.h"
+	"Player2.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+
+1546427010 d:\計程\finalproject_vol1.1\include\player1.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546427018 d:\計程\finalproject_vol1.1\include\player2.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546579477 d:\計程\finalproject_vol1.1\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546603238 source:d:\計程\finalproject_vol1.1\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546584362 source:d:\計程\finalproject_vol1.1\src\player1.cpp
+	"Player1.h"
+
+1546584362 source:d:\計程\finalproject_vol1.1\src\player2.cpp
+	"Player2.h"
+
+1546604577 source:d:\計程\finalproject_vol1.1\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546604903 source:d:\計程\finalproject_vol1.1\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1546586468 source:d:\計程\finalproject_vol1.1\src\main_finale1.0.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+
+1546604728 source:d:\計程\finalproject_vol1.1\src\finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+	<ctime>
+	<iostream>
+
+1546656349 source:d:\計程\finalproject_vol2.1\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546656349 d:\計程\finalproject_vol2.1\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_mixer.h>
+
+1546583656 d:\計程\finalproject_vol2.1\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546683373 d:\計程\finalproject_vol2.1\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546339199 d:\計程\finalproject_vol2.1\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546269919 d:\計程\finalproject_vol2.1\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546735147 source:d:\計程\finalproject_vol2.1\src\bullet.cpp
+	"Bullet.h"
+
+1546509546 d:\計程\finalproject_vol2.1\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1546775536 source:d:\計程\finalproject_vol2.1\src\finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+	<ctime>
+	<iostream>
+
+1546267213 d:\計程\finalproject_vol2.1\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1546773225 d:\計程\finalproject_vol2.1\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Player1.h"
+	"Player2.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+
+1546427010 d:\計程\finalproject_vol2.1\include\player1.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546427018 d:\計程\finalproject_vol2.1\include\player2.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546770322 d:\計程\finalproject_vol2.1\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546339199 source:d:\計程\finalproject_vol2.1\src\humanoid.cpp
+	"Humanoid.h"
+
+1546266864 source:d:\計程\finalproject_vol2.1\src\lbutton.cpp
+	"LButton.h"
+
+1546583656 source:d:\計程\finalproject_vol2.1\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546691217 source:d:\計程\finalproject_vol2.1\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546690166 source:d:\計程\finalproject_vol2.1\src\player1.cpp
+	"Player1.h"
+
+1546683373 source:d:\計程\finalproject_vol2.1\src\player2.cpp
+	"Player2.h"
+
+1546774786 source:d:\計程\finalproject_vol2.1\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546770816 source:d:\計程\finalproject_vol2.1\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1546783105 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546718166 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_mixer.h>
+
+1546718168 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546780604 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546718168 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546718168 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546781652 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\bullet.cpp
+	"Bullet.h"
+
+1546718166 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1546718182 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\humanoid.cpp
+	"Humanoid.h"
+
+1546718184 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\lbutton.cpp
+	"LButton.h"
+
+1546718168 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1546718184 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546781092 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546783239 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\player1.cpp
+	"Player1.h"
+
+1546718168 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\player1.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546783939 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\player2.cpp
+	"Player2.h"
+
+1546718170 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\player2.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546789979 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+	<ctime>
+	<iostream>
+
+1546790874 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Player1.h"
+	"Player2.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+	"mana.h"
+
+1546784981 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546785706 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1546778346 c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\include\mana.h
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<ctime>
+	<iostream>
+	"Player.h"
+
+1546779179 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\mana.cpp
+	"mana.h"
+
+1546785981 source:c:\users\tinti\onedrive\文件\sourcecode\c++sourcecode\cshw\finalproject\finalproject_vol2.2\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546826385 source:d:\計程\finalproject_vol2.3\src\barrel_test.cpp
+	"Barrel_test.h"
+	"Global.h"
+
+1546766960 d:\計程\finalproject_vol2.3\include\barrel_test.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+	<SDL2/SDL_mixer.h>
+
+1546766962 d:\計程\finalproject_vol2.3\include\ltexture.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1546828681 d:\計程\finalproject_vol2.3\include\player.h
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	<cmath>
+	"LTexture.h"
+	"Global.h"
+
+1546766962 d:\計程\finalproject_vol2.3\include\humanoid.h
+	<SDL2/SDL.h>
+	<graphics.h>
+
+1546766960 d:\計程\finalproject_vol2.3\include\global.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1546826385 source:d:\計程\finalproject_vol2.3\src\bullet.cpp
+	"Bullet.h"
+
+1546766960 d:\計程\finalproject_vol2.3\include\bullet.h
+	"LTexture.h"
+	"Player.h"
+	<SDL2/SDL_mixer.h>
+
+1546766980 source:d:\計程\finalproject_vol2.3\src\finale.cpp
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"LButton.h"
+	"Global.h"
+	"WeaponManager.h"
+	<ctime>
+	<iostream>
+
+1546766962 d:\計程\finalproject_vol2.3\include\lbutton.h
+	<SDL2/SDL.h>
+	"Global.h"
+
+1546827463 d:\計程\finalproject_vol2.3\include\weaponmanager.h
+	"Bullet.h"
+	"Player.h"
+	"Player1.h"
+	"Player2.h"
+	"Zombie.h"
+	"Barrel_test.h"
+	"Global.h"
+	<ctime>
+	"mana.h"
+
+1546766962 d:\計程\finalproject_vol2.3\include\player1.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546766964 d:\計程\finalproject_vol2.3\include\player2.h
+	<Player.h>
+	"LTexture.h"
+	"Global.h"
+
+1546766964 d:\計程\finalproject_vol2.3\include\zombie.h
+	"SDL2/SDL.h"
+	"Humanoid.h"
+	"Player.h"
+
+1546766962 d:\計程\finalproject_vol2.3\include\mana.h
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	<ctime>
+	<iostream>
+	"Player.h"
+
+1546766980 source:d:\計程\finalproject_vol2.3\src\humanoid.cpp
+	"Humanoid.h"
+
+1546766978 source:d:\計程\finalproject_vol2.3\src\lbutton.cpp
+	"LButton.h"
+
+1546766980 source:d:\計程\finalproject_vol2.3\src\ltexture.cpp
+	"LTexture.h"
+	"Global.h"
+
+1546766980 source:d:\計程\finalproject_vol2.3\src\mana.cpp
+	"mana.h"
+
+1546766980 source:d:\計程\finalproject_vol2.3\src\player.cpp
+	"Player.h"
+	"Humanoid.h"
+	"SDL2/SDL.h"
+	"Barrel_test.h"
+	<cmath>
+	<vector>
+
+1546766980 source:d:\計程\finalproject_vol2.3\src\player1.cpp
+	"Player1.h"
+
+1546766982 source:d:\計程\finalproject_vol2.3\src\player2.cpp
+	"Player2.h"
+
+1546830056 source:d:\計程\finalproject_vol2.3\src\weaponmanager.cpp
+	"WeaponManager.h"
+
+1546828965 source:d:\計程\finalproject_vol2.3\src\zombie.cpp
+	"Zombie.h"
+	"Humanoid.h"
+	"Player.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
